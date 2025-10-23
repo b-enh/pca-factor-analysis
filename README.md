@@ -1,1 +1,5 @@
 # pca-factor-analysis
+
+#### A project created with the intention of exploring the significance of correlation between different stocks, and how this can be analysed from a mathematical perspective.
+
+My intention with this project was to explore how linear algebra and statistics can be used to identify financial trends and opportunities. Prior to research and developing my understanding of Quantitative Analysis, concepts such as Eigenvectors and Matrices were not things I expected to have applications within the world of fincance, considering how my understanding previously revolved mostly around their applications in pure, linear algebra. Perhaps the biggest success of this project was actually learning how such tools can be viewed as much more than just 'transformations' of vectors as they had been taught to me previously; by deriving covariance matrices from returns data and realising the financial interpretation of its Eigenvectors, I've appreciated the capabilities ...
